@@ -17,31 +17,38 @@ Integrated with:
 - 🎯 4W/5W Takers Table
 - 📈 Line Chart for Year-wise Stat Trends (Runs, Wickets, 4s, 6s)
 - 🍩 Donut Chart for Total Wins by Each Team
-- 🥧 Pie Charts for Top 10 Wicket Takers, Run Scorers, Six Hitters, and Four Hitters  
+- 🥧 Pie Charts for Top 10 Wicket Takers, Run Scorers, Six Hitters, and Four Hitters
+  
 ![Dashboard Overview](./dashboard_image1.png)
 
 ### 📍 CSK 2024 Player Squad  
 Displayed using Button slicer visual  
+
 ![CSK Squad](./dashboard_image2.png)
 
 ### 📍 Team Selector View  
 Includes custom logos and tab-wise navigation  
+
 ![Team Selector](./dashboard_image3.png)
 
 ### 📍 All-Time Bowling Leaders  
 Top career wicket-takers  
+
 ![Bowling Leaders](./dashboard_image4.png)
 
 ### 📍 All-Time Batting Leaders  
 Includes Orange Cap, Most Sixes, Fifties, and consistent scorers  
+
 ![Batting Leaders](./dashboard_image5.png)
 
 ### 📍 Points Table & Season Winners (2008–2024)  
-Interactive table with yearly team standings and champions  
+Interactive table with yearly team standings and champions 
+
 ![Points Table](./dashboard_image6.png)
 
 ### 📍 Cricbuzz Live Match Score  
 Live score integration using API inside HTML visual  
+
 ![Live Score](./dashboard_image7.png)
 
 ---
